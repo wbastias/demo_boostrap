@@ -1,2 +1,2 @@
-# demo_boostrap
+# tarea.7
 curriculum
